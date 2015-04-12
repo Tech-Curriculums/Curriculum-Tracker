@@ -45,3 +45,8 @@ Curriculum tracker, organizing development efforts, *internal-only* for now.
 
 **Forked Examples**
 * [from tdicola, BTLE](https://github.com/Tech-Curriculums/BTLETest/blob/master/app/src/main/java/com/tonydicola/bletest/app/MainActivity.java)
+
+
+## Hardware/3D Printing
+
+* [3D-Printing-Electronics, openscad basics + electronics templates](https://github.com/Tech-Curriculums/3D-Printing-Electronics/blob/master/HW-Interfaces.md)
