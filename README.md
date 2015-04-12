@@ -50,3 +50,4 @@ Curriculum tracker, organizing development efforts, *internal-only* for now.
 ## Hardware/3D Printing
 
 * [3D-Printing-Electronics, openscad basics + electronics templates](https://github.com/Tech-Curriculums/3D-Printing-Electronics/blob/master/HW-Interfaces.md)
+* [Op-Amps-101, what to look for when shopping, and core-topologies](https://github.com/Tech-Curriculums/Op-Amps-101/tree/master/Diagrams)
