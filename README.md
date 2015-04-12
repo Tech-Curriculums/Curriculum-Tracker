@@ -1,10 +1,12 @@
 # Curriculum-Tracker
 Curriculum tracker, organizing development efforts, *internal-only* for now.
 
-## toc:
+### toc:
 - [Android](#android)
 - [Assembly](#assembly)
 - [Shell/CommandLine](#shell-curriculums)
+
+---
 
 ## Shell Curriculums
 
