@@ -1,6 +1,8 @@
 # Curriculum-Tracker
 Curriculum tracker, organizing development efforts, *internal-only* for now.
 
+---
+
 ### toc:
 - [Android](#android)
 - [Assembly](#assembly)
@@ -32,12 +34,12 @@ Curriculum tracker, organizing development efforts, *internal-only* for now.
 ## Android
 
 
-* [Services, Example](https://github.com/Tech-Curriculums/a09_Simple_Service/blob/master/app/src/main/java/com/example/gkielian/a09_simple_service/MyIntentService.java)
 * [Architecture-Page, Module Draft, 201-Introduction-to-Android] (https://github.com/Tech-Curriculums/201-Introduction-to-Android/blob/master/01Architecture.md)
+* [Services, Example](https://github.com/Tech-Curriculums/a09_Simple_Service/blob/master/app/src/main/java/com/example/gkielian/a09_simple_service/MyIntentService.java)
 * [Toast, Example](https://github.com/Tech-Curriculums/a10_A_Toast/blob/master/app/src/main/java/com/example/gkielian/a10_a_toast/MyActivity.java)
 * [Camera, Example](https://github.com/Tech-Curriculums/a2_Smile_For_The/blob/master/src/com/example/a2_smile_for_the/MainActivity.java)
-* [Intents, example, toArchive](https://github.com/Tech-Curriculums/a1_Awesome_Intents/blob/master/src/com/example/a1_awesome_intents/MainActivity.java)
 * [Text-To-Speech, Example](https://github.com/Tech-Curriculums/a3_Spoken_Word/blob/master/app/src/main/java/com/texttospeech/app/MainActivity.java)
+* [Erase-this, Intents, example, toArchive](https://github.com/Tech-Curriculums/a1_Awesome_Intents/blob/master/src/com/example/a1_awesome_intents/MainActivity.java)
 * [material-design, early stages](https://github.com/Tech-Curriculums/200-Android-Material-Design)
 
 
