@@ -7,6 +7,7 @@ Curriculum tracker, organizing development efforts, *internal-only* for now.
 - [Android](#android)
 - [Assembly](#assembly)
 - [Shell/CommandLine](#shell-curriculums)
+- [Editors/IDE's](#editors-ides)
 
 ---
 
@@ -51,3 +52,12 @@ Curriculum tracker, organizing development efforts, *internal-only* for now.
 
 * [3D-Printing-Electronics, openscad basics + electronics templates](https://github.com/Tech-Curriculums/3D-Printing-Electronics/blob/master/HW-Interfaces.md)
 * [Op-Amps-101, what to look for when shopping, and core-topologies](https://github.com/Tech-Curriculums/Op-Amps-101/tree/master/Diagrams)
+
+
+## Editors/IDEs
+
+* [Emacs, starting resources and setup (mac, linux, windows)](https://github.com/Tech-Curriculums/Elective-Emacs-to-the-Max)
+* [Vim-101, early stages, starting resources, pathogen, and setup](https://github.com/Tech-Curriculums/101-Vim)
+* [Vim, basics](https://github.com/Tech-Curriculums/Command-Line-Interface-101/tree/master/CLI-101/VIM-Tutorials)
+* [Nano, basics](https://github.com/Tech-Curriculums/Command-Line-Interface-101/tree/master/CLI-101/Nano-Tutorial)
+* [Android Studio, TBD](https://github.com/Tech-Curriculums/)
