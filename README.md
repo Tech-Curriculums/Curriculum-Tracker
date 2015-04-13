@@ -7,6 +7,7 @@ Curriculum tracker, organizing development efforts, *internal-only* for now.
 - [Android](#android)
 - [Assembly](#assembly)
 - [Shell/CommandLine](#shell-curriculums)
+- [Hardware/3D-Printing](#hardware3d-printing)
 - [Editors/IDE's](#editorsides)
 
 ---
